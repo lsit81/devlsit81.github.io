@@ -1,5 +1,21 @@
-title: Tactile theme
-description: Tactile is a theme for GitHub Pages.
-show_downloads: true
+# Setup
+title:        Seungtaek
+tagline:      ""
+baseurl:      ""
+paginate:     5
+
+# About/contact
+author:
+  name:       lsit81
+  url:        http://lsit81.github.io/ 
+
+# Gems
+gems:
+  - jekyll-paginate
+
+#Others
+markdown: kramdown
+
+disqus_shortname: lsit81
+
 google_analytics:
-theme: 
